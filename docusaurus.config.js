@@ -4,8 +4,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 module.exports = {
   title: "Bee UI",
   tagline: "Bee UI is a lightweight SCSS based UI Framework. You can use, manage and contribute with it in easyest way...",
-  url: "https://bee-ui-docs.github.io",
-  baseUrl: "/handbook/",
+  url: "https://xirosoft.github.io",
+  baseUrl: "/bee-ui-docs/",
   organizationName: "xirosoft",
   projectName: "bee-ui-docs",
   favicon: "img/favicon.png",
@@ -83,7 +83,7 @@ module.exports = {
           position: "left",
         },
         {
-          href: 'https://github.com/xirosoft/bee-ui',
+          href: 'https://github.com/xirosoft/bee-ui-docs',
           position: 'right',
           className: 'header-github-link',
           'aria-label': 'GitHub repository',
@@ -125,7 +125,7 @@ module.exports = {
             },
             {
               label: "GitHub",
-              href: "https://github.com/xirosoft",
+              href: "https://github.com/xirosoft/bee-ui-docs",
             }
           ],
         },
