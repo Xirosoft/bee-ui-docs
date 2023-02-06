@@ -21,7 +21,7 @@ module.exports = {
         docs: {
           showLastUpdateAuthor: false,
           showLastUpdateTime: true,
-          editUrl: "https://github.com/xirosoft/bee-ui/edit/master/",
+          editUrl: "https://github.com/xirosoft/bee-ui-docs/edit/main/",
           path: "docs",
           sidebarPath: require.resolve("./sidebars.js"),
         },
